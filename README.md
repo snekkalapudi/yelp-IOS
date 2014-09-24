@@ -1,9 +1,6 @@
 yelp-IOS
 =======
 
-yelp-IOS
-=======
-
 Yelp resturant search App.
 
 Time spent: 20+ hours
