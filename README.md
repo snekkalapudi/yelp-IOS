@@ -18,3 +18,8 @@ Search results page:
 - You can use the default UISwitch for on/off states. Optional: implement a custom switch
 - Categories should show a subset of the full list with a "See All" row to expand. Category list is here: http://www.yelp.com/developers/documentation/category_list (Links to an external site.)
 - Clicking on the "Search" button should dismiss the filters page and trigger the search w/ the new filter settings.
+
+
+Demo:
+
+![Video Walkthrough](Yelp.gif)
